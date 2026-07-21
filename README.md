@@ -17,6 +17,12 @@ for recommender systems.
 •	Gowalla: 
   https://github.com/xiangwang1223/neural_graph_collaborative_filtering/tree/master/Data/gowalla 
 
+
+## Installation
+```bash
+pip install -r requirements.txt
+```
+
 •	Yelp2018: 
   https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering/tree/master/Data/yelp2018#readme
 
