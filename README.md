@@ -18,7 +18,7 @@ for recommender systems.
   https://github.com/xiangwang1223/neural_graph_collaborative_filtering/tree/master/Data/gowalla 
 
 •	Yelp2018: 
-o	https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering/tree/master/Data/yelp2018#readme
+  https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering/tree/master/Data/yelp2018#readme
 
 
 
